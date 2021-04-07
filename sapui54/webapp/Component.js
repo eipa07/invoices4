@@ -1,3 +1,4 @@
+// @ts-nocheck
 sap.ui.define([
     "sap/ui/core/UIComponent",
     "logaligroup4/sapui54/model/Models",

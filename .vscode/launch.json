@@ -2,7 +2,7 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "invoices normal",
+      "name": "northwind",
       "type": "node",
       "request": "launch",
       "program": "${workspaceFolder}/invoices4-approuter/node_modules/@sap/html5-repo-mock/index.js",
@@ -18,7 +18,7 @@
         "MOCK_LOOKUP_DIRS": "[\"webapp\"]",
         "run.config": "{\"handlerId\":\"ui5_run_config_handler_id\",\"runnableId\":\"/home/user/projects/invoices4/sapui54\"}"
       },
-      "envFile": "${workspaceFolder}/sapui54/.env1",
+      "envFile": "${workspaceFolder}/sapui54/.env3",
       "preLaunchTask": "Build invoices4"
     }
   ]
